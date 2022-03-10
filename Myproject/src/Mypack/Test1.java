@@ -17,6 +17,7 @@ public class Test1 {
 				if(s[i].equals(s[j]))
 				{
 					System.out.println(s[i]);
+					System.out.println(s[i]);
 				}
 			}
 		}
